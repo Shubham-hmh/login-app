@@ -4,9 +4,11 @@ this is login app containing all functionality like authentication , password re
 # client 
 this is frontend view for Login-App 
 # use following cmd for run 
-In client directory use npm start command to run this locally.
+in client directory : 
+ npm start 
 
 # for Backend server use below command 
+in server directory : 
 nodemon server.js
 
 # During registration it sending email to user registered email with the help of smtp server.
